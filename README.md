@@ -1,4 +1,8 @@
-## Hi there 👋
+# IT Student || Full Stack Developer  
+
+👋 Hi, I'm a first-year engineering student at the International Institute of Technology.  
+I am passionate about web and mobile development and always ready to take on new challenges while continuously growing my skills.  
+
 
 <!--
 **najmeddineguidara/najmeddineguidara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
